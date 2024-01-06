@@ -12,7 +12,7 @@ This project focuses on sentiment analysis in Arabic text, leveraging advanced n
 - Evaluation metrics to assess the model's performance
 
 ```bash
-git clone https://github.com/7odatarek/Arabic-Sentiment-Analysis.git
+git clone https://github.com/Mahmoud-TK/Arabic-Sentiment-Analysis.git
 cd sentiment-analysis-arabic
 
 
