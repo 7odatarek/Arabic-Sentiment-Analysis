@@ -13,6 +13,6 @@ This project focuses on sentiment analysis in Arabic text, leveraging advanced n
 
 ```bash
 git clone https://github.com/Mahmoud-TK/Arabic-Sentiment-Analysis.git
-cd sentiment-analysis-arabic
+cd Arabic-Sentiment-Analysis
 
 
